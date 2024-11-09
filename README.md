@@ -63,6 +63,7 @@ token's Type is : Number, and Value is: '0', at Line: 4
 token's Type is : spechial_CHaracter, and Value is: ';', at Line: 4
 token's Type is : spechial_CHaracter, and Value is: '}', at Line: 5
 ```
+![Screenshot](https://github.com/user-attachments/assets/25489e2f-c3af-48a9-9e30-d7df8f012410)
 
 ## Code Overview
 1. **Token Definitions:** Regular expressions for different token types are defined in the tokens list.
